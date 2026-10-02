@@ -2,7 +2,7 @@ module.exports.config = {
   'name': "font",
   'version': "1.1.0",
   'hasPermssion': 0,
-  'credits': "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+  'credits': "🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰",
   'description': "Converts text into any Font",
   'commandCategory': "Tools",
   'usages': "<fontType> <input>",
@@ -474,38 +474,38 @@ module.exports.run = async ({ event, api, args }) => {
 
 ✇━━━━━━━━━━━━━━━✇
 
-𝟏  - 𝓡𝓐𝓗𝓐𝓣 / 𝓻𝓪𝓱𝓪𝓽
-𝟐  - 𝕽𝔄ℍ𝔄𝕿 / 𝕣𝕒𝕙𝕒𝕥
-𝟑  - 𝗥𝗔𝗛𝗔𝗧 | 𝗿𝗮𝗵𝗮𝘁
-𝟒  - 𝑹𝑨𝑯𝑨𝑻 | 𝒓𝒂𝒉𝒂𝒕
-𝟓  - 𝔄ℌ𝔄𝔗 | 𝔯𝔞𝔥𝔞𝔱
-𝟔  - RAHAT | ʀᴀʜᴀᴛ
-𝟕  - 🆁🅰🅷🅰🆃
-𝟖  - 🅁🄰🄷🄰🅃
-𝟗  - 𝐑𝐀𝐇𝐀𝐓 | 𝐫𝐚𝐡𝐚𝐭
-𝟏𝟎 - 𝚁𝙰𝙷𝙰𝚃 | 𝚛𝚊𝚑𝚊𝚝
-𝟏𝟏 - R͟A͟H͟A͟T͟ | r͟a͟h͟a͟t͟
-𝟏𝟐 - R͠A͠H͠A͠T͠ | r͠a͠h͠a͠t͠
-𝟏𝟑 - R̷A̷H̷A̷T̷ | r̷a̷h̷a̷t̷
-𝟏𝟒 - R̶A̶H̶A̶T̶ | r̶a̶h̶a̶t̶
-𝟏𝟓 - R̲A̲H̲A̲T̲ | r̲a̲h̲a̲t̲
-𝟏𝟔 - 𝕽𝕬𝕳𝕬𝕿 | 𝖗𝖆𝖍𝖆𝖙
-𝟏𝟕 - 𝖆𝖍𝖆𝖙 | 𝖆𝖍𝖆𝖙
-𝟏𝟖 - R̽A̽H̽A̽T̽ | r̽a̽h̽a̽t̽
-𝟏𝟗 - R̊ÅH̊ÅT̊ | r̊åh̊åt̊
-𝟐𝟎 - R̸A̸H̸A̸T̸ | r̸a̸h̸a̸t̸
-𝟐𝟏 - R̾A̾H̾A̾T̾ | r̾a̾h̾a̾t̾
-𝟐𝟐 - R⃠A⃠H⃠A⃠T⃠ | r⃠a⃠h⃠a⃠t⃠
-𝟐𝟑 - R̴A̴H̴A̴T̴ | r̴a̴h̴a̴t̴
-𝟐𝟒 - Rαнαт | rαнαт
-𝟐𝟓 - R͓̽A͓̽H͓̽A͓̽T͓̽ | r͓̽a͓̽h͓̽a͓̽t͓̽
-𝟐𝟔 - R᷈A᷈H᷈A᷈T᷈ | r᷈a᷈h᷈a᷈t᷈
-𝟐𝟕 - R̆ĂH̆ĂT̆ | r̆ăh̆ăt̆
-𝟐𝟖 - ȒȂH̑ȂT̑ | ȓȃh̑ȃt̑
-𝟐𝟗 - R̰A̰H̰A̰T̰ | r̰a̰h̰a̰t̰
-𝟑𝟎 - R⃘A⃘H⃘A⃘T⃘ | r⃘a⃘h⃘a⃘t⃘
+𝟏 - 𝓢𝓐𝓓𝓘 / 𝓼𝓪𝓭𝓲 
+𝟐 - 𝕾𝔄𝔇ℑ / 𝕤𝕒𝕕𝕚
+ 𝟑 - 𝗦𝗔𝗗𝗜 | 𝘀𝗮𝗱𝗶 
+𝟒 - 𝑺𝑨𝑫𝑰 | 𝒔𝒂𝒅𝒊 
+𝟓 - 𝔖𝔄𝔇ℑ | 𝔰𝔞𝔡𝔦 
+𝟔 - SADI | sᴀᴅɪ 
+𝟕 - 🆂🅰🅳🅸
+ 𝟖 - 🅂🄰🄳🄸 
+𝟗 - 𝐒𝐀𝐃𝐈 | 𝐬𝐚𝐝𝐢 
+𝟏𝟎 - 𝚂𝙰𝙳𝙸 | 𝚜𝚊𝚍𝚒 
+𝟏𝟏 - S͟A͟D͟I͟ | s͟a͟d͟i͟
+ 𝟏𝟐 - S͠A͠D͠I͠ | s͠a͠d͠i͠
+ 𝟏𝟑 - S̷A̷D̷I̷ | s̷a̷d̷i̷ 
+𝟏𝟒 - S̶A̶D̶I̶ | s̶a̶d̶i̶ 
+𝟏𝟓 - S̲A̲D̲I̲ | s̲a̲d̲i̲ 
+𝟏𝟔 - 𝕾𝕬𝕯𝕴 | 𝖘𝖆𝖉𝖎
+ 𝟏𝟕 - 𝖆𝖉𝖎 | 𝖆𝖉𝖎 
+𝟏𝟖 - S̽A̽D̽I̽ | s̽a̽d̽i̽ 
+𝟏𝟗 - S̊ÅD̊I̊ | s̊åd̊i̊ 
+𝟐𝟎 - S̸A̸D̸I̸ | s̸a̸d̸i̸ 
+𝟐𝟏 - S̾A̾D̾I̾ | s̾a̾d̾i̾ 
+𝟐𝟐 - S⃠A⃠D⃠I⃠ | s⃠a⃠d⃠i⃠
+ 𝟐𝟑 - S̴A̴D̴I̴ | s̴a̴d̴i̴ 
+𝟐𝟒 - Sα∂ι | sα∂ι 
+𝟐𝟓 - S͓̽A͓̽D͓̽I͓̽ | s͓̽a͓̽d͓̽i͓̽ 
+𝟐𝟔 - S᷈A᷈D᷈I᷈ | s᷈a᷈d᷈i᷈ 
+𝟐𝟕 - S̆ĂD̆Ĭ | s̆ăd̆ĭ 
+𝟐𝟖 - S̑ȂD̑Ȋ | s̑ȃd̑ȋ 
+𝟐𝟗 - S̰A̰D̰Ḭ | s̰a̰d̰ḭ 
+𝟑𝟎 - S⃘A⃘D⃘I⃘ | s⃘a⃘d⃘i⃘
 
-উদাহরণ: !font 1 Rahat/rahat \nউদাহরণ: !font 3 rahat`;
+উদাহরণ: !font 1 Sadi/sadi \nউদাহরণ: !font 3 sadi`;
     return api.sendMessage(helpMessage, event.threadID, event.messageID);
   }
 
