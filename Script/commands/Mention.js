@@ -2,7 +2,7 @@ module.exports.config = {
   name: "mention",
   version: "3.0.0",
   hasPermssion: 2,
-  credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+  credits: "🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰",
   description: "একবার করে বারবার কাউকে মেনশন করার কমান্ড",
   commandCategory: "group",
   usages: "mention [count] [@mention/@everyone/reply/UID/link/name]",
@@ -180,14 +180,14 @@ module.exports.run = async ({ api, event, args }) => {
   } 
   else {
       return api.sendMessage(
-          `❌যাকে চিপা থেকে বের করতে চাও তাকে ম্যানশন করো\n!mention 6 @Rahat Islam\n!mention 6 [uid]`,
+          `❌যাকে চিপা থেকে বের করতে চাও তাকে ম্যানশন করো\n!mention 6 @SA DI\n!mention 6 [uid]`,
           threadID,
           messageID
       );
   }
 
   if (!target) {
-      return api.sendMessage("❌ইউজার ডিটেক্ট করা যায়নি!\n!mention 6 @Rahat Islam\n!mention 6 [uid]", threadID, messageID);
+      return api.sendMessage("❌ইউজার ডিটেক্ট করা যায়নি!\n!mention 6 @SA DI\n!mention 6 [uid]", threadID, messageID);
   }
 
   // Get user name if not already got (for user type)
@@ -282,7 +282,7 @@ module.exports.run = async ({ api, event, args }) => {
       );
 
       const mentionMessages = [
-          `${target.name}\nচিপা থেকে বের হও🐸🔪`,
+          `${target.name}\nচিপা থেকে বের হও🐸💋`,
           `@${target.name} বস ডাকছে🏃‍♂️`
       ];
 
