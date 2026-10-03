@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "offline",
 	version: "1.0.0",
 	permissions: 2,
-	credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+	credits: "🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰",
 	description: "Turn on or off busy mode",
   	usages: "[reason]",
   	commandCategory: "utility",
@@ -24,13 +24,13 @@ module.exports.handleEvent = async function({ api, event, Users }) {
         delete busyData[senderID];
         fs.writeFileSync(busyPath, JSON.stringify(busyData, null, 4));
         return api.sendMessage(`『𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻』- বস অনলাইনে এসেছে🥰`, threadID, () => {
-            if (info.tag.length == 0) api.sendMessage("『🔰𝐑𝐀𝐇𝐀𝐓 𝐁𝐎𝐓🔰』- বস তুমি যখন অফলাইনে ছিলে তখন কেউ তোমাকে ম্যানশন করে নাই🫠", threadID);
+            if (info.tag.length == 0) api.sendMessage("『🔰𝐒𝐀𝐃𝐈 𝐁𝐎𝐓🔰』- বস তুমি যখন অফলাইনে ছিলে তখন কেউ তোমাকে ম্যানশন করে নাই🫠", threadID);
             else {
                 var msg = "";
                 for (var i of info.tag) {
                     msg += `${i}\n`
                 }
-                api.sendMessage("『🔰𝐑𝐀𝐇𝐀𝐓 𝐁𝐎𝐓🔰』- বস তুমি যখন অফলাইনে ছিলে তখন যারা তোমাকে ম্যানশন করেছে👇:\n\n" + msg, threadID)
+                api.sendMessage("『🔰𝐒𝐀𝐃𝐈 𝐁𝐎𝐓🔰』- বস তুমি যখন অফলাইনে ছিলে তখন যারা তোমাকে ম্যানশন করেছে👇:\n\n" + msg, threadID)
             }
         }, messageID);
     }
