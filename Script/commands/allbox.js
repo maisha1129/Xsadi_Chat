@@ -1,7 +1,7 @@
 module.exports.config = {
   name: 'allbox',
   version: '1.0.0',
-  credits: '🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰',
+  credits: '🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰',
   hasPermssion: 2,
   description: '[Ban/Unban/Del/Remove] List[Data] thread The bot has joined in.',
   commandCategory: 'Admin',
