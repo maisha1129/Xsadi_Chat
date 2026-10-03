@@ -5,7 +5,7 @@ module.exports.config = {
 	name: "admin",
 	version: "1.1.0",
 	hasPermssion: 2,
-	credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+	credits: "🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰",
 	description: "Admin Config with multiple mention detection",
 	commandCategory: "Admin",
 	usages: "[add/remove/list] [@mention/reply/UID/link/name]",
@@ -53,7 +53,7 @@ module.exports.languages = {
         "removedNDH": '𝗠𝗢𝗗𝗘 - Đã gỡ thành công vai trò Người hỗ trợ %1 người dùng trở lại làm thành viên\n\n%2'
     },
     "en": {
-        "listAdmin": '𝐋𝐈𝐒𝐓 𝐎𝐅 𝐀𝐃𝐌𝐈𝐍 ᰔ\n___________________\n𝐀𝐃𝐌𝐈𝐍: ︎🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰\n_____________________________\n𝐎𝐏𝐎𝐑𝐄𝐓𝐎𝐑𝐒\n\n%1',
+        "listAdmin": '𝐋𝐈𝐒𝐓 𝐎𝐅 𝐀𝐃𝐌𝐈𝐍 ᰔ\n___________________\n𝐀𝐃𝐌𝐈𝐍: ︎🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰\n_____________________________\n𝐎𝐏𝐎𝐑𝐄𝐓𝐎𝐑𝐒\n\n%1',
         "notHavePermssion": '[Admin] You have no permission to use "%1"',
         "addedNewAdmin": '「𝐀𝐝𝐦𝐢𝐧」 𝐀𝐝𝐝𝐞𝐝 %1 𝐀𝐝𝐦𝐢𝐧 :\n\n%2 ᰔ',
         "removedAdmin": '「𝐀𝐝𝐦𝐢𝐧」 𝐑𝐞𝐦𝐨𝐯𝐞 %1 𝐀𝐝𝐦𝐢𝐧:\n\n%2 ᰔ'
