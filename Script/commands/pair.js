@@ -2,7 +2,7 @@ module.exports.config = {
   name: "pair",
   version: "1.0.5",
   hasPermssion: 0,
-  credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+  credits: "🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰",
   description: "দুইজন ইউজারকে মজার কম্প্যাটিবিলিটি স্কোরসহ পেয়ার করে",
   commandCategory: "🩵love🩵",
   usages: "[@mention/reply/UID/link/name]",
