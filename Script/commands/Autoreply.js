@@ -43,7 +43,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "pic de": "📸 এখন ছবি শেয়ার করতে পারছি না",
     "আমি ছাদি": "হ্যাঁ 🫦 বলো কী লাগবে?",
     "murgi": "🐔 কাউকে মুরগি দিলে আমি লিভ নিবো😒",
-    "@SA DI": "🗿 abbu sadi bol",
+    "sadi": "🗿 abbu sadi bol",
     "sukna": "👺sukna azke ture gya marbe tui w8 kor sukna condom niye acceh ",
     "love you": "❤️ love you too",
     "kire ki koros": "😄 তোমার সাথে কথা বলছি",
