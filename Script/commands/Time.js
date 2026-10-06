@@ -6,7 +6,7 @@ module.exports.config = {
  name: "time",
  version: "4.0",
  hasPermssion: 0,
- credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+ credits: "🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰",
  description: "Beautiful neon-style date/time generator",
  commandCategory: "Info",
  cooldowns: 1
