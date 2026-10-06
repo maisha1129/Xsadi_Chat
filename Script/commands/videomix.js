@@ -2,7 +2,7 @@ module.exports.config = {
  name: "videomix",
  version: "11.9.7",
  hasPermssion: 0,
- credits: "Shaon Ahmed",
+ credits: "Sadi Islam",
  description: "random love story video",
  commandCategory: "video",
  usages: "random",
