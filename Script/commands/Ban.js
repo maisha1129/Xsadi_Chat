@@ -2,7 +2,7 @@ module.exports.config = {
     name: "ban",
     version: "8.0.0",
     hasPermssion: 2,
-    credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+    credits: "🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰",
     description: "Global + Manual Ban System",
     commandCategory: "system",
     usages: "-ban on/off | -ban [@mention/reply/UID/link/name] | -ban list",
@@ -75,7 +75,7 @@ module.exports.run = async ({ event, api, Users, args }) => {
         const { targetID, targetName } = await getTargetUser(api, event, [args[1]], Users);
         
         if (!targetID) {
-            return api.sendMessage("❌রাহাদ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
+            return api.sendMessage("❌ছাদি বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
         }
 
         let data = (await Users.getData(targetID)).data || {};
@@ -124,7 +124,7 @@ module.exports.run = async ({ event, api, Users, args }) => {
 
     if (!targetID) {
         return api.sendMessage(
-            "❌রাহাদ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴",
+            "❌ছাদি বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴",
             threadID,
             messageID
         );
