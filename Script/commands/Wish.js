@@ -2,7 +2,7 @@ module.exports.config = {
  name: "wish",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+ credits: "🔰𝐒𝐀𝐃𝐈 𝐈𝐒𝐋𝐀𝐌🔰",
  description: "Happy birthday wish for your friends",
  commandCategory: "🩵love🩵",
  usages: "[@mention/reply/UID/link/name]",
@@ -107,7 +107,7 @@ module.exports.run = async function ({
  }
 
  if (!targetID) {
- return api.sendMessage("❌রাহাদ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
+ return api.sendMessage("❌ছাদি বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
  }
 
  let bgPath = __dirname + "/cache/background.png";
