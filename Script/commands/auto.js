@@ -54,7 +54,7 @@ module.exports = {
       // Send video with platform and title
       api.sendMessage(
         {
-          body: `🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰\n⚡𝗔𝘂𝘁𝗼 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿⚡\n📍 Platform: ${site}`,
+          body: `🔰𝙎𝘼𝘿𝙄_𝘽𝙊𝙏🔰\n⚡𝗔𝘂𝘁𝗼 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿⚡\n📍 Platform: ${site}`,
           attachment: fs.createReadStream(filePath),
         },
         event.threadID,
